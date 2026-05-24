@@ -59,7 +59,7 @@
     {
       "id": "6",
       "title": "Vue Native Developer",
-      "type": "Full-Time",
+      "type": "Part-Time",
       "description": "Join our team as a Front-End Developer in beautiful Portland, OR. We are looking for a skilled and enthusiastic individual to help us create innovative web solutions. Competitive salary and great benefits package available.",
       "location": "Portland, OR",
       "salary": "$100K - $110K",
@@ -68,20 +68,6 @@
         "description": "Port Solutions is a leading technology company specializing in software development and digital marketing. We are committed to providing our clients with cutting-edge solutions and our employees with a supportive and rewarding work environment.",
         "contactEmail": "contact@ipsumlorem.com",
         "contactPhone": "555-555-5555"
-      }
-    },
-    {
-      "id": "Nx70FaoULSQ",
-      "type": "Remote",
-      "title": "Daquan Fox",
-      "description": "Magna non temporibus",
-      "salary": "$60K - $70K",
-      "location": "Reprehenderit earum",
-      "company": {
-        "name": "Chase and Crawford Traders",
-        "description": "Autem saepe ut duis ",
-        "contactEmail": "casa@mailinator.com",
-        "contactPhone": "+1 (545) 547-5672"
       }
     },
     {
@@ -155,20 +141,6 @@
       }
     },
     {
-      "id": "wUXZ3sPyymw",
-      "type": "Remote",
-      "title": "Daquan Fox",
-      "description": "Magna non temporibusergergiergirtgirtgitrgtrbgiibtrgitrg",
-      "salary": "$175K - $200K",
-      "location": "Reprehenderit earum",
-      "company": {
-        "name": "Chase and Crawford Traders",
-        "description": "Autem saepe ut duis ",
-        "contactEmail": "casa@mailinatorrfreferferfess.com",
-        "contactPhone": "+1 (545) 547-5672"
-      }
-    },
-    {
       "id": "vvQcTDcrFgc",
       "type": "Part-Time",
       "title": "Demetria Holderwefiebfberiger",
@@ -211,17 +183,17 @@
       }
     },
     {
-      "id": "NvEZOgxtZ-Q",
-      "type": "Part-Time",
-      "title": "Demetria Holderwefiebfberiger",
-      "description": "Inventore ut reicsfwedien",
-      "salary": "Under $50K",
-      "location": "Excepteur velit ut ",
+      "id": "sP6OwoQ7FTM",
+      "type": "Internship",
+      "title": "Expedita sequi est s",
+      "description": "Labore saepe est non",
+      "salary": "$50K - $60K",
+      "location": "Atque ut atque dolor",
       "company": {
-        "name": "Le and Davenport Plc",
-        "description": "Accusantium blanditiefer",
-        "contactEmail": "quce@mailinator.com",
-        "contactPhone": "+1 (892) 652-2656"
+        "name": "Labore quia qui aut ",
+        "description": "Molestiae dolor nihi",
+        "contactEmail": "sysac@mailinator.com",
+        "contactPhone": "+1 (581) 908-2849"
       }
     }
   ],

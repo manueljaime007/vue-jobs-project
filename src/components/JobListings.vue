@@ -30,7 +30,7 @@ withDefaults(defineProps<{
   showButton: boolean
 }>(), {
   showButton: false,
-  limit: 10,
+  limit: 100,
 })
 </script>
 
