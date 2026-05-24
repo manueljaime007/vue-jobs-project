@@ -39,7 +39,7 @@ A full-stack-like job board built with Vue 3, allowing employers to post Vue.js 
 ### Installation
 
 ```bash
-git clone https://github.com/your-username/vue-jobs.git
+git clone https://github.com/manueljaime007/vue-jobs.git
 cd vue-jobs
 npm install
 ```
