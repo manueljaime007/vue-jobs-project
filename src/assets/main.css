@@ -1,16 +1,30 @@
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Archivo:ital,wght@0,100..900;1,100..900&family=Karla:ital,wght@0,200..800;1,200..800&family=Red+Hat+Display:ital,wght@0,300..900;1,300..900&display=swap');
+@import "tailwindcss";
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display&display=swap');
 
 @import "tailwindcss";
 
 @theme {
-  --font-sans: "Outfit", system-ui, sans-serif;
-
-  --color-primary: #1E40AF;
-  --color-secondary: #3B82F6;
-  --color-accent: #FBBF24;
-  --color-background: #F3F4F6;
-  --color-text: #111827;
+  --font-sans: "Archivo", sans-serif;
+  --font-display: "DM Serif Display", Georgia, serif;
 
 
+  /* Core palette — profissional, sóbrio, moderno */
+  --color-primary: #0F172A;
+  /* slate-900 — base escura */
+  --color-secondary: #1D4ED8;
+  /* blue-700 — acção principal */
+  --color-accent: #F59E0B;
+  /* amber-500 — destaque/badge */
+  --color-surface: #F8FAFC;
+  /* slate-50 — fundo geral */
+  --color-card: #FFFFFF;
+  --color-border: #E2E8F0;
+  /* slate-200 */
+  --color-muted: #64748B;
+  /* slate-500 */
+  --color-text: #0F172A;
+
+  /* Aliases utilitários */
+  --color-blue-950: #0B1120;
 }
